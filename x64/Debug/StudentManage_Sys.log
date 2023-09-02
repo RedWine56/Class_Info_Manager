@@ -1,0 +1,41 @@
+﻿  main.c
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(106,21): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(94,9): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(167,19): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(182,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(192,19): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(205,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(245,21): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(249,19): warning C4133: “=”: 从“Node *”到“node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(278,22): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(282,22): warning C4133: “=”: 从“Node *”到“node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(295,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(264,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(441,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(472,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(464,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(492,20): warning C4133: “=”: 从“Node *”到“node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(509,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(505,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(524,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(539,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(541,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(535,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(556,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(548,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(572,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(564,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(586,10): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(587,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(589,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(583,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(601,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(604,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(607,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(609,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(598,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(633,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(626,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(649,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(642,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+  StudentManage_Sys.vcxproj -> C:\Users\86187\Desktop\StudentManage_Sys\x64\Debug\StudentManage_Sys.exe
