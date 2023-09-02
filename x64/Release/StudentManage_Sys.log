@@ -1,46 +1,45 @@
 ﻿  main.c
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(106,21): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(94,9): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(167,19): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(182,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(192,19): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(205,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(255,21): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(259,19): warning C4133: “=”: 从“Node *”到“node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(289,22): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(293,22): warning C4133: “=”: 从“Node *”到“node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(306,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(274,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(452,17): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(483,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(475,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(503,20): warning C4133: “=”: 从“Node *”到“node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(520,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(516,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(535,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(550,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(552,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(546,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(567,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(559,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(583,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(575,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(597,10): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(598,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(600,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(594,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(612,16): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(615,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(618,16): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(620,17): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(609,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(644,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(637,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(660,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
-C:\Users\86187\Desktop\StudentManage_Sys\main.c(653,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(108,21): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(96,9): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(169,19): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(184,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(194,19): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(207,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(257,21): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(261,19): warning C4133: “=”: 从“Node *”到“node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(291,22): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(295,22): warning C4133: “=”: 从“Node *”到“node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(308,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(276,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(454,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(485,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(477,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(505,20): warning C4133: “=”: 从“Node *”到“node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(522,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(518,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(537,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(552,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(554,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(548,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(569,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(561,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(585,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(577,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(599,10): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(600,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(602,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(596,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(614,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(617,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(620,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(622,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(611,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(646,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(639,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(662,20): warning C4133: “=”: 从“node *”到“Node *”的类型不兼容
+C:\Users\86187\Desktop\StudentManage_Sys\main.c(655,8): warning C4133: “初始化”: 从“node *”到“Node *”的类型不兼容
   正在生成代码
-  2 of 30 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB not found, fall back to full compilation.
+  All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成代码的生成
   StudentManage_Sys.vcxproj -> C:\Users\86187\Desktop\StudentManage_Sys\x64\Release\StudentManage_Sys.exe

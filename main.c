@@ -49,6 +49,8 @@ int main()
 		case 8://退出
 			flag = 0;
 			printf("已退出系统。\n");
+			system("pause");
+			printf("\n");
 			break;
 		default:
 			if (choice != 7)
@@ -64,7 +66,7 @@ int main()
 void menu()
 {
 	printf("**********************\t\n");
-	printf("***学生信息管理系统***\t\n");
+	printf("***班级信息管理系统***\t\n");
 	printf("**********************\t\n");
 	printf("****1.显示学生信息****\t\n");
 	printf("****2.搜索学生信息****\t\n");
@@ -427,8 +429,8 @@ void stat(Node* head)
 		int good = good_stat(head, a);
 		int bad = bad_stat(head, a);
 		printf("总人数：%d\n",stunum);
-		printf("优秀人数：%d\t\t",good);printf("挂科人数：%d\n",bad);
-		printf("优秀率：%.2f%%\t\t", (good*1.0) / (stunum * 1.0)*100);
+		printf("优秀人数（>=90）：%d\t\t",good);printf("挂科人数（<60）：%d\n",bad);
+		printf("优秀率：%.2f%%\t\t\t", (good*1.0) / (stunum * 1.0)*100);
 		printf("挂科率：%.2f%%\n", (bad * 1.0) /(stunum*1.0)*100);
 		printf("\n");
 		
